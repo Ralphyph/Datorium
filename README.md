@@ -1,3 +1,3 @@
 # Pirmais limenis
-##otrais limenis
-######trešais limenis
+## otrais limenis
+###### trešais limenis
